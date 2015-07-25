@@ -1,0 +1,17 @@
+body {
+    background-color: #e0e0e0;
+}
+
+.banner {
+    background-color: #c0c0c0;
+    height: 200px;
+}
+
+.menu {
+    background-color: #000;
+    height: 40px;
+}
+
+.content-container {
+    background-color: #fff;
+}

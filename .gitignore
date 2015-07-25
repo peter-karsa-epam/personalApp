@@ -2,8 +2,13 @@ logs
 target
 /.idea
 /.idea_modules
+/.sbtserver
 /.classpath
 /.project
 /.settings
 /RUNNING_PID
 /project
+/logs
+.cache-main
+.cache-tests
+.project
